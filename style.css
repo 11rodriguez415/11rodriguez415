@@ -1,0 +1,10 @@
+header {
+  background: red;
+}
+
+.thumbnail-picture {
+  width: 40%;
+  height: auto;
+  border-radius: 25px;
+  box-shadow: 40px 43px 96px -30px rgba(0, 0, 0, 0.75);
+}
